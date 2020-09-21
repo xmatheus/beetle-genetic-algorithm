@@ -14,7 +14,7 @@ O porque da coisa: É pensar que besouros mais escuros tem a maior chance de nã
 > yarn start
 
 vai ser iniciado na porta 3001, acesse o localhost:3001 e veja o console do terminal.
-Alguns segundos de reprodução e mutação já deve dar índividuos com o Fitness Value maior que 0.88(valor padrão, mude lá no [file](https://github.com/xmatheus/beetle-genetic-algorithm/blob/ceb57b13832524a28940d1a241809387d377231f/public/index.js#L99)
+Alguns segundos de reprodução e mutação já deve dar índividuos com o Fitness Value maior que 0.88(valor padrão, mude lá no [public/index.js](https://github.com/xmatheus/beetle-genetic-algorithm/blob/ceb57b13832524a28940d1a241809387d377231f/public/index.js#L99)
 
 ### vídeo usado como base
 
